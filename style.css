@@ -3,3 +3,56 @@
     padding: 0;
     box-sizing: border-box;
 }
+.top {
+    height: 100vh;
+    width: 100%;
+}
+.top-bar{
+   background: url(image/pattern-bg.png) ;
+   
+}
+.search-section{
+    display:flex;
+    gap: 20px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top:40px
+    
+}
+
+h2{
+    color:white;
+}
+
+#query{
+    padding: 20px;
+    width: 450px;
+    border: none;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.arrow-icon{
+    padding: 20px;
+    background-color: #444;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+#form{
+    display:flex;
+}
+
+.middle-section{
+    display: flex;
+    background-color: white;
+    gap: 20px;
+    padding: 20px;
+}
+
+h5{
+    color: #999;
+    text-transform: uppercase;
+}
