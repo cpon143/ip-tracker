@@ -82,7 +82,7 @@ div.vertical-line{
       height: 60vh;
   }
 
-  @media (max-width:375px){
+  @media (max-width:409px){
     .top-bar{
         width: 60rem;
     }
