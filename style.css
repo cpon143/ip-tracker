@@ -108,4 +108,7 @@ div.vertical-line{
         font-size: 22px;
         text-align: center;
     }
+    #map{
+        width: 32rem;
+    }
   }
