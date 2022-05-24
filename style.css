@@ -92,7 +92,7 @@ div.vertical-line{
     .middle-section{
         align-items: center;
         justify-content: center;
-        width: 28rem;
+        width: 24rem;
         flex-wrap: wrap;
         padding: 40px 10px;
     }
@@ -105,7 +105,7 @@ div.vertical-line{
         display: none;
     }
     h5{
-        font-size: 22px;
+        font-size: 15px;
         text-align: center;
     }
     #map{
