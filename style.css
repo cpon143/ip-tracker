@@ -97,6 +97,8 @@ div.vertical-line{
         flex-wrap: wrap;
     }
     #query{
+        padding: 20px;
+        font-size: 1.6rem;
         width: 386px;
     }
     .vertical-line{
