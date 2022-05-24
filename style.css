@@ -84,10 +84,10 @@ div.vertical-line{
 
   @media (max-width:409px){
     .top-bar{
-        width: 60rem;
+        width: 32rem;
     }
     h2 {
-        font-size: 66px;
+        font-size: 40px;
     }
     .middle-section{
         flex-wrap: wrap;
@@ -97,7 +97,7 @@ div.vertical-line{
         flex-wrap: wrap;
     }
     #query{
-        width: 292px;
+        width: 386px;
     }
     .vertical-line{
         display: none;
