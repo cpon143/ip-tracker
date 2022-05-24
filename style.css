@@ -90,11 +90,11 @@ div.vertical-line{
         font-size: 40px;
     }
     .middle-section{
-        flex-wrap: wrap;
         align-items: center;
         justify-content: center;
         width: 28rem;
         flex-wrap: wrap;
+        padding: 40px 10px;
     }
     #query{
         padding: 20px;
@@ -103,5 +103,9 @@ div.vertical-line{
     }
     .vertical-line{
         display: none;
+    }
+    h5{
+        font-size: 22px;
+        text-align: center;
     }
   }
