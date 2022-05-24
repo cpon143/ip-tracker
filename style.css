@@ -52,8 +52,6 @@ h2{
     border-radius : 20px;
 }
 
-.part{
-}
 
 h5{
     font-size: 11px;
@@ -95,5 +93,13 @@ div.vertical-line{
         flex-wrap: wrap;
         align-items: center;
         justify-content: center;
+        width: 21rem;
+        flex-wrap: wrap;
+    }
+    #query{
+        width: 282px;
+    }
+    .vertical-line{
+        display: none;
     }
   }
